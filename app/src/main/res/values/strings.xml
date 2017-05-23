@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ICA03_04</string>
+
+    <!-- MAIN ACTIVITY-->
+    <string name="inserir">INSERIR</string>
+    <string name="pesquisar">PESQUISAR</string>
+    <string name="update">ATUALIZAR</string>
+    <!-- ################# -->
+
+    <!-- INSERIR -->
+    <string name="nome">Nome de usuário</string>
+    <string name="email">E-mail</string>
+    <string name="idade">Idade</string>
+    <string name="ende">Endereço</string>
+    <string name="cpf">CPF</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="voltar">VOLTAR</string>
+    <!-- ################ -->
+
+    <!-- EDITAR -->
+    <string name="editar">EDITAR</string>
+    <string name="delete">DELETAR</string>
+    <!-- ################ -->
+</resources>
